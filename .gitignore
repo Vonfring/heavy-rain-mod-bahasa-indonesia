@@ -1,0 +1,15 @@
+# file game / hasil kerja besar: JANGAN di-commit
+unpacked/
+decompressed/
+build*/
+dist/
+*.bin
+*.journal
+*.idx
+*.idm
+*.dat
+*.d[0-9][0-9]
+text/loc_*.json
+__pycache__/
+*.spec
+*.zip
